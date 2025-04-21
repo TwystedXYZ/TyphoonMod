@@ -1,0 +1,21 @@
+{
+  "item.typhoon.breeze_helmet": "Breeze Helmet",
+  "item.typhoon.breeze_chestplate": "Breeze Chestplate",
+  "item.typhoon.breeze_leggings": "Breeze Leggings",
+  "item.typhoon.breeze_boots": "Breeze Boots",
+  "item.typhoon.breeze_sword": "Breeze Sword",
+  "item.typhoon.breeze_pickaxe": "Breeze Pickaxe",
+  "item.typhoon.breeze_axe": "Breeze Axe",
+  "item.typhoon.breeze_shovel": "Breeze Shovel",
+  "item.typhoon.breeze_hoe": "Breeze Hoe",
+  "item.typhoon.breeze_ring": "Ring of Wind",
+  "item.typhoon.breeze_upgrade_smithing_template": "Smithing Template",
+  "upgrade.typhoon.breeze_upgrade": "Breeze Upgrade",
+  "item.typhoon.smithing_template.breeze_upgrade.applies_to": "Netherite Equipment",
+  "item.typhoon.smithing_template.breeze_upgrade.ingredients": "Ring of Wind",
+  "item.typhoon.smithing_template.breeze_upgrade.additions_slot_description": "Add Ring of Wind",
+  "item.typhoon.smithing_template.breeze_upgrade.base_slot_description": "Add netherite armor, weapon, or tool",
+  "itemGroup.typhoon": "Typhoon",
+  "advancements.typhoon:breeze_armor.title": "With all the Force of a Great Typhoon",
+  "advancements.typhoon:breeze_armor.description": "Obtain a full set of Breeze Armor"
+}
