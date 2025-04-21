@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:nether/netherite_armor",
+  "criteria": {
+    "breeze_armor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "typhoon:breeze_helmet"
+          },
+          {
+            "items": "typhoon:breeze_chestplate"
+          },
+          {
+            "items": "typhoon:breeze_leggings"
+          },
+          {
+            "items": "typhoon:breeze_boots"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.typhoon:breeze_armor.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "typhoon:breeze_chestplate"
+    },
+    "title": {
+      "translate": "advancements.typhoon:breeze_armor.title"
+    }
+
+  },
+  "requirements": [
+    [
+      "breeze_armor"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": true
+}
