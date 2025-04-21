@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "typhoon",
+	"version": "1.0",
+	"name": "Typhoon",
+	"description": "A Minecraft mod which features a custom armor set for the Breeze.",
+	"authors": [
+		"TwystedXYZ"
+	],
+	"contact": {
+		"sources": "https://github.com/TwystedXYZ/TyphoonMod"
+	},
+	"icon": "assets/typhoon/textures/item/breeze_ring.png",
+	"license": "AGPL-3.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "com.twystedxyz.typhoon.Typhoon"
+		],
+		"client": [
+			"com.twystedxyz.typhoon.TyphoonClient"
+		],
+		"fabric-datagen": [
+			" "
+		]
+	},
+	"mixins": [
+		"typhoon.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*",
+		"owo": "*"
+	},
+
+	"accessWidener": "typhoon.accesswidener"
+}
