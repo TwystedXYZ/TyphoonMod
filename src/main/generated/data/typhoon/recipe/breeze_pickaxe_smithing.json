@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "typhoon:breeze_ring"
+  },
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "result": {
+    "count": 1,
+    "id": "typhoon:breeze_pickaxe"
+  },
+  "template": {
+    "item": "typhoon:breeze_upgrade_smithing_template"
+  }
+}
